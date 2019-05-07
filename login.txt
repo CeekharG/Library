@@ -1,0 +1,2 @@
+admin p@ssword
+user abc123
